@@ -9,7 +9,7 @@ public class ExpenseTracker {
 
     private static final String DB_URL = "jdbc:mysql://localhost:3306/expense_tracker";
     private static final String USER = "root";
-    private static final String PASSWORD = "Amma@Merwin1";
+    private static final String PASSWORD = "Your_Password";
 
     public static void main(String[] args) {
         // Add a new expense
